@@ -3,9 +3,6 @@
     margin:0;
     box-sizing: border-box;
 }
-html,body{
-    overflow:hidden;
-}
 .navbar-brand{
     margin-left: 20px;
     font-size: 50px;
